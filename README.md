@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
  Projet IT 130 – Introduction aux Technologies Web
 
 ## Présentation
